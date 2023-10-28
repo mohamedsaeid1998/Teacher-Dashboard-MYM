@@ -1,0 +1,148 @@
+{
+  "myData": [
+    {
+      "studentName": "asdasd",
+      "age": "20",
+      "year": "الاول",
+      "teacher": "مصطفي الجرف",
+      "phone": "01000722670",
+      "id": 1
+    },
+    {
+      "studentName": "asdas",
+      "age": 50,
+      "year": "الثاني",
+      "teacher": "سمير المجيدي",
+      "phone": 1021754177,
+      "id": 2
+    },
+    {
+      "studentName": "محمد سعيد",
+      "age": 30,
+      "year": "الثالث",
+      "teacher": "محمد حسن",
+      "phone": 1000722670,
+      "id": 7
+    },
+    {
+      "studentName": "احمد سعيد",
+      "age": 20,
+      "year": "الثالث",
+      "teacher": "محمد محمود",
+      "phone": 1000722670,
+      "id": 8
+    },
+    {
+      "studentName": "samy",
+      "age": 30,
+      "year": "الثاني",
+      "teacher": "ايمن محمد",
+      "phone": 1000722670,
+      "id": 9
+    },
+    {
+      "studentName": "saeid",
+      "age": 19,
+      "year": "الاول",
+      "teacher": "محمد حسن",
+      "phone": 1000722670,
+      "id": 10
+    },
+    {
+      "studentName": "saed",
+      "age": 15,
+      "year": "الثاني",
+      "teacher": "محمد ابراهيم",
+      "phone": 1000722670,
+      "id": 11
+    },
+    {
+      "studentName": "mohamed",
+      "age": 25,
+      "year": "الاول",
+      "teacher": "سمير المجيدي",
+      "phone": 1000722670,
+      "id": 12
+    },
+    {
+      "studentName": "ahmed",
+      "age": 20,
+      "year": "الثاني",
+      "teacher": "مصطفي الجرف",
+      "phone": 1000722670,
+      "id": 13
+    },
+    {
+      "studentName": "mohamed",
+      "age": 20,
+      "year": "الثالث",
+      "teacher": "مصطفي الجرف",
+      "phone": 1021754177,
+      "id": 14
+    },
+    {
+      "studentName": "asdas",
+      "age": 20,
+      "year": "الثاني",
+      "teacher": "السيد حسن",
+      "phone": 1021754177,
+      "id": 18
+    },
+    {
+      "studentName": "sadasd",
+      "age": 15,
+      "year": "الثالث",
+      "teacher": "محمد ابراهيم",
+      "phone": 1000722670,
+      "id": 19
+    }
+  ],
+  "statusPayment": [
+    {
+      "month": 4,
+      "Payment": 80,
+      "NotPayment": 60
+    },
+    {
+      "month": 5,
+      "Payment": 120,
+      "NotPayment": 90
+    },
+    {
+      "month": 6,
+      "Payment": 110,
+      "NotPayment": 80
+    },
+    {
+      "month": 8,
+      "Payment": 130,
+      "NotPayment": 85
+    }
+  ],
+  "statusProfit": [
+    {
+      "name": "المدفوعات",
+      "value": 50
+    },
+    {
+      "name": "باقى الربح",
+      "value": 45
+    },
+    {
+      "name": "ربح معلم 1",
+      "value": 45
+    },
+    {
+      "name": "ربح معلم 2",
+      "value": 30
+    },
+    {
+      "name": "ربح معلم 3",
+      "value": 30
+    },
+    {
+      "name": "ربح معلم 4",
+      "value": 30
+    }
+  ]
+}
