@@ -1,5 +1,5 @@
 // @ts-ignore
-import teacher2 from "../../assets/images/ellipse-1172.png";
+import teacher2 from "../../Assets/images/ellipse-1172.png";
 import { MdOutlineScience } from "react-icons/md";
 import { BiMath } from "react-icons/bi";
 import { AddTeacher, CategoryClasses, SingleTeacher } from "@/Components";
