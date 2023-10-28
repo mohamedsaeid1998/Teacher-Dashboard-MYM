@@ -1,6 +1,4 @@
 // @ts-ignore
-import teacher1 from "../../assets/images/ellipse-2.svg";
-// @ts-ignore
 import teacher2 from "../../assets/images/ellipse-1172.png";
 import { MdOutlineScience } from "react-icons/md";
 import { BiMath } from "react-icons/bi";
@@ -8,7 +6,7 @@ import { AddTeacher, CategoryClasses, SingleTeacher } from "@/Components";
 const Teachers = () => {
   const dataItems = [
     {
-      image: teacher1,
+      image: teacher2,
       TeacherName: "أحمد",
       classTeacher: "الاول",
       Category: "العلوم",
@@ -22,7 +20,7 @@ const Teachers = () => {
       iconClass: <BiMath />,
     },
     {
-        image: teacher1,
+        image: teacher2,
         TeacherName: "خالد",
         classTeacher: "الثالث",
         Category: "الرياضيات",
